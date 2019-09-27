@@ -222,10 +222,12 @@ img {
 }
 @media (max-width: 500px) {
   .home header {
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
     flex-wrap: wrap;
     padding-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
   }
 }
 .home .content-section {
@@ -236,10 +238,12 @@ img {
 }
 @media (max-width: 500px) {
   .home .content-section {
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
     flex-wrap: wrap;
     padding-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
   }
 }
 .home .content-section .text-content {
@@ -248,10 +252,12 @@ img {
 }
 @media (max-width: 500px) {
   .home .content-section .text-content {
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
     flex-wrap: wrap;
     padding-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
   }
 }
 .home .content-section .img-content {
@@ -260,10 +266,12 @@ img {
 }
 @media (max-width: 500px) {
   .home .content-section .img-content {
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
     flex-wrap: wrap;
     padding-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
   }
 }
 .home .content-section .img-content img {
@@ -271,10 +279,12 @@ img {
 }
 @media (max-width: 500px) {
   .home .content-section .img-content img {
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
     flex-wrap: wrap;
     padding-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
   }
 }
 .home .inverse-content {
@@ -301,10 +311,12 @@ img {
 }
 @media (max-width: 500px) {
   .home .content-destination {
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
     flex-wrap: wrap;
     padding-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
   }
 }
 .home .content-destination img {
@@ -318,10 +330,12 @@ img {
 }
 @media (max-width: 500px) {
   .home .content-pick {
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
     flex-wrap: wrap;
     padding-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
   }
 }
 @media (max-width: 500px) {
